@@ -1,0 +1,82 @@
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+}
+
+.main__top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main {
+    margin: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main__heading {
+    margin: 0;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.main__search {
+    width: 300px;
+    border-radius: 18px;
+    display: block;
+    padding: 9px;
+    border: 1px solid black;
+}
+
+.main__sort-alph {
+    width:170px;
+    padding: 10px;
+    display: block;
+}
+
+.main__sort-course {
+    width:178px;
+    padding: 9px;
+    display: block;
+}
+
+
+.table {
+    margin-top: 60px;
+}
+
+th {
+    border: 1px solid #666161;
+    text-align: center;
+}
+
+tr{
+    border: 3px solid #292828;
+    text-align: center;
+}
+
+td{
+    border: 3px solid #222020;
+}
+

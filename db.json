@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1643626701029,
+      "name": "Dad",
+      "surname": "hame",
+      "age": "45",
+      "number": "45564564",
+      "course": "Graphic-Design"
+    },
+    {
+      "id": 1643633259612,
+      "name": "Omina",
+      "surname": "Fathullayev",
+      "age": "23",
+      "number": "345435343223",
+      "course": "SMM"
+    },
+    {
+      "id": 1643633309839,
+      "name": "sarvina",
+      "surname": "Abdusattorova",
+      "age": "19",
+      "number": "34212313123434",
+      "course": "Web-Programming"
+    }
+  ]
+}
